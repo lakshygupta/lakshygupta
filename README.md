@@ -1,8 +1,6 @@
 
 <img width="95%" src="https://user-images.githubusercontent.com/40179909/119258754-b5182f80-bbe8-11eb-8a6a-780f227708c1.PNG" />
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Lakshy Gupta</h1>
 
 <p align="center">
 <img align="center" alt="visitors" src="https://gpvc.arturio.dev/lakshygupta" />
