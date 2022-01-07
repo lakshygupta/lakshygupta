@@ -4,7 +4,6 @@
 
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/Class%20Of-2021-blue?style=for-the-badge&logo=googleclassroom"/>
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/lakshygupta" />
 </p>
 <p align="center">
 <br>
