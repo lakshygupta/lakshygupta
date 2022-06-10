@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/lakshygupta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:lakshygupta99@gmail.com?subject=Hi%20Lakshy"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/lakshygupta/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1YzqnkIS3RMgEwwVvCRBb5P3C49V-GTnx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-840010?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/15dfFqZE7ilxjaMTkkEMdyh6MLIckRgFc/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-840010?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
 </p>
     
 ## Language:
