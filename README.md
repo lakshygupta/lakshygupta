@@ -1,6 +1,6 @@
 
 <img width="95%" src="https://user-images.githubusercontent.com/40179909/119258754-b5182f80-bbe8-11eb-8a6a-780f227708c1.PNG" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">, I am Lakshy Gupta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Lakshy Gupta</h1>
 
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/Class%20Of-2021-blue?style=for-the-badge&logo=googleclassroom"/>
